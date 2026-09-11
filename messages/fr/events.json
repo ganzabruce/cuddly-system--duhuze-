@@ -1,0 +1,42 @@
+{
+  "publicEvent": {
+    "notFoundTitle": "Événement introuvable",
+    "notFoundDescription": "L'événement que vous recherchez est introuvable.",
+    "invitedTo": "Vous êtes invité(e) à {title}. Répondez maintenant pour confirmer votre présence !",
+    "confirmAttendance": "Confirmez votre présence à {title}."
+  },
+  "guest": {
+    "metaTitle": "Confirmation d'invité | Duhuze RSVP",
+    "metaDescription": "Confirmez votre RSVP",
+    "invalidBadge": "Lien invalide",
+    "invalidTitle": "Lien invalide ou expiré",
+    "invalidDescription": "Ce lien d'invité a peut-être expiré ou est incorrect. Essayez d'ouvrir le lien depuis votre e-mail d'invitation.",
+    "unavailableBadge": "Événement indisponible",
+    "unavailableDescription": "Cet événement n'est pas disponible pour l'enregistrement."
+  },
+  "invite": {
+    "metaTitle": "Invitation à un événement | Duhuze RSVP",
+    "metaDescription": "Vous avez été invité(e) à un événement",
+    "invitedTo": "Vous avez été invité(e) à {title}.",
+    "invalidBadge": "Invitation invalide",
+    "invalidTitle": "Invitation introuvable",
+    "invalidDescription": "Ce lien d'invitation est invalide. Veuillez ouvrir le dernier lien reçu par e-mail.",
+    "usedBadge": "Invitation utilisée",
+    "usedTitle": "Cette invitation a déjà été utilisée",
+    "usedDescription": "Si c'est votre invitation, demandez un nouveau lien pour accéder à votre RSVP.",
+    "revokedBadge": "Invitation révoquée",
+    "revokedTitle": "Cette invitation n'est plus valide",
+    "revokedDescription": "L'organisateur a révoqué cette invitation. Veuillez le contacter si vous avez encore besoin d'un accès.",
+    "expiredBadge": "Invitation expirée",
+    "expiredTitle": "Cette invitation a expiré",
+    "expiredDescription": "Demandez un nouveau lien d'invitation pour confirmer votre présence."
+  },
+  "tokenState": {
+    "requestNewLink": "Demander un nouveau lien",
+    "sending": "Envoi…",
+    "backToHome": "Retour à l'accueil",
+    "emailSentBadge": "E-mail envoyé",
+    "emailSentTitle": "Vérifiez votre boîte de réception",
+    "emailSentDescription": "Nous avons envoyé les détails de votre RSVP et le lien de l'événement par e-mail."
+  }
+}

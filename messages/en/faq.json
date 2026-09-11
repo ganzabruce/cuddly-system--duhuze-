@@ -1,0 +1,114 @@
+{
+  "home": [
+    {
+      "question": "Do guests need an account to RSVP?",
+      "answer": "Not at all. Guests open your event link, fill in their name, and confirm attendance in under a minute — no sign-up, no app download, no friction. The flow is fully optimized for mobile, so it works seamlessly over WhatsApp, SMS, or email."
+    },
+    {
+      "question": "How does the active events limit work?",
+      "answer": "Only published, live events count toward your plan quota. Drafts, completed events, and anything archived are free from limits. Free gives you 3 active events, Standard gives you 10, and Premium gives you 25."
+    },
+    {
+      "question": "Can I switch plans at any time?",
+      "answer": "Yes — upgrade or downgrade whenever you need, with no lock-in. Upgrades take effect immediately after payment succeeds. Downgrades take effect at the end of the current billing period."
+    },
+    {
+      "question": "What payment methods are accepted?",
+      "answer": "We accept MTN Mobile Money, Airtel Money, and card payments. Mobile money payments send a prompt to your phone for confirmation, and card payments are completed through our hosted checkout."
+    },
+    {
+      "question": "What are event contributions?",
+      "answer": "Event contributions (Premium) let you include payment instructions directly in the RSVP flow — for group gifts, participation fees, or shared expenses. Duhuze shows the details to guests during RSVP; the actual money movement happens through your own payment link or account."
+    }
+  ],
+  "faq": {
+    "Product": [
+      {
+        "question": "What is Duhuze?",
+        "answer": "Duhuze is an event management platform built for Rwandan event organizers. It lets you create events, collect RSVPs through a shareable link, manage your guest list in real time, and check guests in at the door — all from one place, on any device."
+      },
+      {
+        "question": "Do guests need an account to RSVP?",
+        "answer": "Not at all. Guests open your event link, fill in their name, and confirm attendance in under a minute — no sign-up, no app download, no friction. The flow is fully optimized for mobile, so it works seamlessly over WhatsApp, SMS, or email."
+      },
+      {
+        "question": "Is there a mobile app?",
+        "answer": "Duhuze is a progressive web app — it works in any mobile browser without installation. Open it on your phone and it behaves like a native app. We may release dedicated iOS and Android apps in the future."
+      },
+      {
+        "question": "Can I customize the RSVP form?",
+        "answer": "Premium plans include custom RSVP questions — add fields like meal preference, T-shirt size, session selection, or anything specific to your event. Guests answer these when they RSVP, and their responses appear alongside their entry in your guest list."
+      },
+      {
+        "question": "What languages does Duhuze support?",
+        "answer": "Duhuze currently supports English. Kinyarwanda and French language support are on our roadmap. The RSVP flow for guests is simple enough that most guests find it intuitive regardless of language."
+      }
+    ],
+    "Pricing": [
+      {
+        "question": "Is the Free plan really free — no hidden charges?",
+        "answer": "Yes, completely free with no credit card required. The Free plan gives you up to 3 active published events, unlimited guests, RSVP collection, and analytics — all at no cost. You only need a payment method when you decide to upgrade."
+      },
+      {
+        "question": "What payment methods are accepted?",
+        "answer": "We accept MTN Mobile Money, Airtel Money, and card payments. Mobile money payments send a prompt to your phone for confirmation, and card payments are completed through our hosted checkout."
+      },
+      {
+        "question": "How much do I save by billing yearly?",
+        "answer": "Choosing an annual plan saves you 20% compared to paying monthly — roughly two months free. The full yearly amount is charged in a single payment at the start of your billing cycle, and you have access for the entire year."
+      },
+      {
+        "question": "Can I switch plans at any time?",
+        "answer": "Yes — upgrade or downgrade whenever you need, with no lock-in. Upgrades take effect immediately after payment succeeds. Downgrades take effect at the end of the current billing period."
+      },
+      {
+        "question": "What happens to my data if I downgrade?",
+        "answer": "Your event data, guest records, and RSVP responses are never deleted when you downgrade. If your active events exceed the lower plan's limit, the platform keeps events with the nearest upcoming dates active and deactivates the rest. You can reactivate them at any time by upgrading or archiving below the limit."
+      },
+      {
+        "question": "Do you charge per guest or per RSVP?",
+        "answer": "Never. All plans include unlimited guests and unlimited RSVPs. Whether you host an intimate dinner for 10 or a conference for 10,000, the cost stays the same."
+      },
+      {
+        "question": "How does the active events limit work?",
+        "answer": "Only published, live events count toward your plan quota. Drafts, completed events, and anything archived are free from limits. Free gives you 3 active published events, Standard gives you 10, and Premium gives you 25."
+      },
+      {
+        "question": "What are event contributions?",
+        "answer": "Event contributions (Premium) let you include payment instructions directly in the RSVP flow — for group gifts, participation fees, or shared expenses. Duhuze shows the details to guests during RSVP; the actual money movement happens through your own payment link or account."
+      }
+    ],
+    "Events": [
+      {
+        "question": "What counts as an \"active\" event?",
+        "answer": "An active event is one that is published and accessible to guests via your RSVP link. Draft events, events you have marked as complete, and archived events do not count toward your plan quota."
+      },
+      {
+        "question": "Can I export my guest list?",
+        "answer": "Standard and Premium plans include CSV export of your full guest list, including RSVP status, custom question answers, and check-in records. This makes it easy to hand off to a venue coordinator or keep your own records."
+      },
+      {
+        "question": "Can multiple people manage the same event?",
+        "answer": "Co-host management is on our roadmap. Today, event management is tied to the creator's account. If you need a workaround in the interim, you can share login access with a trusted co-organizer."
+      }
+    ],
+    "Account": [
+      {
+        "question": "How do I create an account?",
+        "answer": "Visit duhuze.rw/signup and register with your email address. No credit card is required — you start on the Free plan immediately and can upgrade whenever you're ready."
+      },
+      {
+        "question": "Can I have multiple organizer profiles?",
+        "answer": "Each account has one organizer profile. If you manage events for multiple organizations, you can create separate accounts with different email addresses. Multi-profile support under one login is something we are considering for a future update."
+      },
+      {
+        "question": "Is my data secure?",
+        "answer": "Yes. All data is encrypted in transit (HTTPS/TLS) and at rest. We do not sell your data or your guests' information to third parties. Guest personal details are only accessible to the event organizer who created the event."
+      },
+      {
+        "question": "How do I delete my account?",
+        "answer": "You can delete your account from the account settings page. All your event data and guest records will be permanently removed within 30 days. If you are on a paid plan, your access continues until the end of the current billing period."
+      }
+    ]
+  }
+}

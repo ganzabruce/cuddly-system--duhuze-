@@ -1,0 +1,149 @@
+{
+  "privacy": {
+    "hero": {
+      "badge": "Mentions légales",
+      "headline": "Politique de confidentialité",
+      "subtext": "Comment nous collectons, utilisons et protégeons vos données."
+    },
+    "contents": "Sommaire",
+    "lastUpdated": "Dernière mise à jour : mars 2026",
+    "sections": [
+      {
+        "id": "information-we-collect",
+        "title": "Informations que nous collectons",
+        "body": "Lorsque vous créez un compte, nous collectons votre nom, votre adresse email et les informations de profil fournies via notre service d'authentification (Clerk). Lorsque vous créez des événements, nous stockons les détails de l'événement tels que le titre, la date, le lieu et la description.\n\nPour les invités qui confirment leur présence, nous collectons les informations demandées par l'organisateur de l'événement — généralement le nom, l'email et toute question personnalisée définie par l'organisateur. Les invités n'ont pas besoin de créer un compte Duhuze RSVP pour répondre.",
+        "callout": "Nous ne collectons que les informations nécessaires pour fournir et améliorer le service."
+      },
+      {
+        "id": "how-we-use-your-information",
+        "title": "Comment nous utilisons vos informations",
+        "body": "Nous utilisons vos informations pour :\n\n• Fournir, maintenir et améliorer la plateforme Duhuze RSVP\n• Envoyer des emails transactionnels (invitations, confirmations de RSVP, rappels)\n• Communiquer avec vous au sujet de votre compte ou de vos événements\n• Analyser les tendances d'utilisation pour améliorer le produit\n\nNous ne vendons, ne louons ni n'échangeons vos informations personnelles à des tiers à des fins marketing."
+      },
+      {
+        "id": "data-sharing",
+        "title": "Partage des données",
+        "body": "Nous partageons vos données uniquement avec les prestataires de services qui nous aident à faire fonctionner la plateforme :\n\n• Clerk — authentification et gestion des utilisateurs\n• Neon — hébergement de base de données (PostgreSQL)\n• Resend — envoi d'emails transactionnels\n• Hostinger — hébergement de l'application\n\nChaque prestataire est lié par ses propres politiques de confidentialité et accords de traitement des données. Nous ne partageons pas les données des invités avec quiconque autre que l'organisateur de l'événement qui les a invités.",
+        "callout": null
+      },
+      {
+        "id": "data-retention",
+        "title": "Conservation des données",
+        "body": "Nous conservons les données de votre compte tant qu'il est actif. Les données d'événement et d'invités sont conservées tant que le compte de l'organisateur existe. Si vous supprimez votre compte, nous retirons vos données personnelles dans un délai de 30 jours, sauf obligation légale.\n\nLes données de RSVP des invités sont associées au compte de l'organisateur. Les invités peuvent demander la suppression de leurs données en contactant l'organisateur de l'événement ou en nous écrivant directement.",
+        "callout": null
+      },
+      {
+        "id": "cookies-and-tracking",
+        "title": "Cookies et suivi",
+        "body": "Nous utilisons des cookies essentiels pour l'authentification et la gestion des sessions. Nous n'utilisons pas de cookies publicitaires ni de traceurs tiers.\n\nNos analytiques sont minimales et axées sur les tendances d'utilisation globales — nous ne créons pas de profils individuels à des fins publicitaires.",
+        "callout": "Nous utilisons uniquement des cookies essentiels. Aucun traceur publicitaire, jamais."
+      },
+      {
+        "id": "security",
+        "title": "Sécurité",
+        "body": "Nous prenons des mesures raisonnables pour protéger vos données, notamment :\n\n• Des connexions chiffrées (HTTPS/TLS) pour toutes les données en transit\n• Un stockage de base de données chiffré au repos\n• Des jetons de session avec expiration automatique\n• Des contrôles d'accès basés sur les rôles pour les fonctions administratives\n\nAucun système n'est parfaitement sécurisé. Si vous découvrez une vulnérabilité, veuillez nous contacter à operations@izyodigital.com.",
+        "callout": null
+      },
+      {
+        "id": "your-rights",
+        "title": "Vos droits",
+        "body": "Vous avez le droit de :\n\n• Accéder aux données personnelles que nous détenons à votre sujet\n• Corriger des données inexactes\n• Demander la suppression de vos données\n• Exporter vos données d'événement et d'invités\n• Retirer votre consentement pour les communications optionnelles\n\nPour exercer l'un de ces droits, contactez-nous à operations@izyodigital.com.",
+        "callout": null
+      },
+      {
+        "id": "changes-to-this-policy",
+        "title": "Modifications de cette politique",
+        "body": "Nous pouvons mettre à jour cette politique de temps à autre. Lorsque nous apportons des modifications importantes, nous vous en informons par email ou par une notification sur la plateforme. L'utilisation continue de Duhuze RSVP après les modifications constitue l'acceptation de la politique mise à jour.",
+        "callout": null
+      },
+      {
+        "id": "contact",
+        "title": "Contact",
+        "body": "Si vous avez des questions concernant cette politique de confidentialité ou nos pratiques en matière de données, contactez-nous :\n\n• Email : operations@izyodigital.com\n• Demandes générales : info@rsvp-duhuze.com",
+        "callout": null
+      }
+    ]
+  },
+  "terms": {
+    "hero": {
+      "badge": "Mentions légales",
+      "headline": "Conditions d'utilisation",
+      "subtext": "Les règles et directives d'utilisation de Duhuze RSVP."
+    },
+    "contents": "Sommaire",
+    "lastUpdated": "Dernière mise à jour : mars 2026",
+    "sections": [
+      {
+        "id": "acceptance",
+        "title": "Acceptation des conditions",
+        "body": "En accédant à Duhuze RSVP ou en l'utilisant (« le Service »), vous acceptez d'être lié par ces Conditions d'utilisation. Si vous n'acceptez pas ces conditions, n'utilisez pas le Service.\n\nCes conditions s'appliquent à tous les utilisateurs, y compris les organisateurs d'événements, les invités et les visiteurs.",
+        "callout": null
+      },
+      {
+        "id": "account-responsibilities",
+        "title": "Responsabilités du compte",
+        "body": "Vous êtes responsable de la sécurité de votre compte et de toute activité qui s'y déroule. Vous devez :\n\n• Fournir des informations exactes lors de la création de votre compte\n• Conserver vos identifiants de connexion en toute sécurité\n• Nous notifier immédiatement tout accès non autorisé\n• Ne pas partager votre compte avec d'autres\n\nNous nous réservons le droit de suspendre ou de résilier les comptes qui violent ces conditions.",
+        "callout": "Vous êtes responsable de toute activité sous votre compte."
+      },
+      {
+        "id": "acceptable-use",
+        "title": "Utilisation acceptable",
+        "body": "Vous vous engagez à ne pas utiliser Duhuze RSVP pour :\n\n• Violer des lois ou réglementations applicables\n• Envoyer du spam, du phishing ou des communications non sollicitées\n• Télécharger du code malveillant, des virus ou du contenu nuisible\n• Usurper l'identité d'une autre personne ou entité\n• Collecter les informations personnelles des invités à des fins non liées à votre événement\n• Interférer avec ou perturber le Service\n\nNous pouvons supprimer du contenu ou suspendre des comptes qui violent ces directives.",
+        "callout": null
+      },
+      {
+        "id": "event-organizer-obligations",
+        "title": "Obligations de l'organisateur d'événement",
+        "body": "En tant qu'organisateur d'événement, vous êtes responsable de :\n\n• L'exactitude des informations de votre événement\n• L'obtention du consentement approprié des invités dont vous collectez les informations\n• L'utilisation des données des invités uniquement à des fins liées à votre événement\n• Le respect des lois applicables sur la protection des données dans votre juridiction\n\nDuhuze RSVP fournit des outils de gestion d'événements mais n'est partie à aucun accord entre les organisateurs et leurs invités.",
+        "callout": null
+      },
+      {
+        "id": "guest-data",
+        "title": "Données des invités",
+        "body": "Les organisateurs d'événements collectent les informations des invités via Duhuze RSVP. En tant qu'invité :\n\n• Vos informations sont partagées avec l'organisateur de l'événement qui vous a invité\n• Vous pouvez demander la suppression de vos données en contactant l'organisateur ou nous\n• Vous n'avez pas besoin de créer un compte Duhuze RSVP pour confirmer votre présence\n\nLes organisateurs sont responsables de l'utilisation qu'ils font des données des invités en dehors de la plateforme Duhuze RSVP.",
+        "callout": null
+      },
+      {
+        "id": "payments-and-billing",
+        "title": "Paiements et facturation",
+        "body": "Les formules payantes sont facturées à l'avance sur une base mensuelle ou annuelle en RWF. Les prix peuvent être modifiés avec un préavis de 30 jours.\n\n• Vous pouvez passer à niveau supérieur ou inférieur à tout moment\n• Les mises à niveau prennent effet après un paiement réussi\n• Les rétrogradations et annulations prennent effet à la fin de la période de facturation en cours\n• Nous n'offrons pas de remboursements automatisisés pour le moment\n• Les formules gratuites n'ont pas de limite de durée mais sont soumises à des limites d'utilisation",
+        "callout": null
+      },
+      {
+        "id": "intellectual-property",
+        "title": "Propriété intellectuelle",
+        "body": "Duhuze RSVP et son contenu original, ses fonctionnalités sont la propriété de Duhuze RSVP et sont protégés par le droit d'auteur et d'autres lois sur la propriété intellectuelle.\n\nVous conservez la propriété de tout contenu que vous téléchargez sur le Service (détails d'événement, images, listes d'invités). En téléchargeant du contenu, vous nous accordez une licence pour le stocker, l'afficher et le transmettre selon les nécessités du Service.",
+        "callout": null
+      },
+      {
+        "id": "service-availability",
+        "title": "Disponibilité du service",
+        "body": "Nous nous efforçons de maintenir Duhuze RSVP disponible en permanence mais ne garantissons pas un accès ininterrompu. Nous pouvons suspendre temporairement le Service pour maintenance, mises à jour ou pour des circonstances indépendantes de notre volonté.\n\nNous ne sommes pas responsables des pertes ou dommages résultant d'interruptions de service.",
+        "callout": null
+      },
+      {
+        "id": "limitation-of-liability",
+        "title": "Limitation de responsabilité",
+        "body": "Dans toute la mesure permise par la loi, Duhuze RSVP ne sera pas responsable des dommages indirects, accessoires, spéciaux, consécutifs ou punitifs résultant de votre utilisation du Service.\n\nNotre responsabilité totale pour toute réclamation découlant de ces conditions ne dépassera pas le montant que vous nous avez versé au cours des 12 mois précédant la réclamation.",
+        "callout": "Notre responsabilité est limitée aux frais que vous avez payés au cours des 12 mois précédents."
+      },
+      {
+        "id": "termination",
+        "title": "Résiliation",
+        "body": "Vous pouvez supprimer votre compte à tout moment. Nous pouvons résilier ou suspendre votre compte si vous violez ces conditions.\n\nÀ la résiliation, votre droit d'utiliser le Service cesse immédiatement. Nous conserverons vos données pendant 30 jours après la suppression du compte, après quoi elles seront définitivement supprimées.",
+        "callout": null
+      },
+      {
+        "id": "changes-to-terms",
+        "title": "Modifications des conditions",
+        "body": "Nous pouvons mettre à jour ces conditions de temps à autre. Lorsque nous apportons des modifications importantes, nous vous en informons par email ou par une notification sur la plateforme.\n\nL'utilisation continue de Duhuze RSVP après les modifications constitue l'acceptation des conditions mises à jour. Si vous n'êtes pas d'accord avec les modifications, vous devez cesser d'utiliser le Service.",
+        "callout": null
+      },
+      {
+        "id": "contact",
+        "title": "Contact",
+        "body": "Pour toute question concernant ces conditions, contactez-nous :\n\n• Email : operations@izyodigital.com\n• Demandes générales : info@rsvp-duhuze.com",
+        "callout": null
+      }
+    ]
+  }
+}

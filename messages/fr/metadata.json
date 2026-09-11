@@ -1,0 +1,42 @@
+{
+  "home": {
+    "title": "Duhuze RSVP - Gestion d'événements simplifiée",
+    "description": "Créez de magnifiques invitations, collectez les RSVP et gérez votre liste d'invités en toute simplicité. La manière moderne de planifier et organiser vos événements."
+  },
+  "about": {
+    "title": "À propos | Duhuze RSVP",
+    "description": "Duhuze RSVP est né d'une frustration simple : organiser des événements en Afrique signifiait jongler entre tableurs, discussions WhatsApp éparpillées et comptages manuels."
+  },
+  "pricing": {
+    "title": "Tarifs | Duhuze RSVP",
+    "description": "Des tarifs simples et transparents. Commencez gratuitement, puis évoluez avec vos événements."
+  },
+  "faq": {
+    "title": "FAQ | Duhuze",
+    "description": "Réponses aux questions fréquentes sur Duhuze — événements, facturation, compte et plus encore."
+  },
+  "contact": {
+    "title": "Contact | Duhuze RSVP",
+    "description": "Une question, un retour ou une idée de partenariat ? Nous serions ravis de vous entendre."
+  },
+  "privacy": {
+    "title": "Politique de confidentialité | Duhuze RSVP",
+    "description": "Comment nous collectons, utilisons et protégeons vos données."
+  },
+  "terms": {
+    "title": "Conditions d'utilisation | Duhuze RSVP",
+    "description": "Les règles et directives d'utilisation de Duhuze RSVP."
+  },
+  "explore": {
+    "title": "Explorer les événements | Duhuze RSVP",
+    "description": "Découvrez et confirmez votre présence aux événements publics près de chez vous."
+  },
+  "support": {
+    "title": "Support | Duhuze RSVP",
+    "description": "Besoin d'aide avec Duhuze ? Soumettez une demande et notre équipe vous répondra."
+  },
+  "checkout": {
+    "title": "Paiement | Duhuze RSVP",
+    "description": "Finalisez votre abonnement."
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "hero": {
+    "headline1": "Vos événements,",
+    "headline2": "gérés à la",
+    "headlineAccent": "perfection.",
+    "subtext": "Créez des événements, envoyez de magnifiques invitations, collectez les RSVP et gérez vos invités. Fini les tableurs et les discussions éparpillées.",
+    "cta": "Commencer",
+    "installApp": "Installer Duhuze",
+    "learnMore": "En savoir plus",
+    "freeNote": "Gratuit jusqu'à 3 événements · Sans carte bancaire"
+  },
+  "valuesMarquee": {
+    "items": [
+      "2 400+ RSVP collectés",
+      "180+ événements hébergés",
+      "98% de taux de réponse",
+      "Conçu à Kigali",
+      "Mobile d'abord",
+      "Aucun téléchargement nécessaire",
+      "Fonctionne sur toute connexion"
+    ]
+  },
+  "howItWorks": {
+    "eyebrow": "Comment ça marche",
+    "heading1": "De zéro à la liste d'invités",
+    "headingAccent": "en quelques minutes.",
+    "subheading": "Pas de tableurs. Pas d'échanges d'emails interminables. Juste un système clair qui fonctionne.",
+    "stepLabel": "Étape {number}",
+    "steps": [
+      {
+        "title": "Créez votre événement",
+        "description": "Définissez les détails — date, lieu, capacité et questions personnalisées. Moins de deux minutes suffisent."
+      },
+      {
+        "title": "Partagez votre lien RSVP",
+        "description": "Un lien unique qui fonctionne sur WhatsApp, email, réseaux sociaux, ou à intégrer sur votre site."
+      },
+      {
+        "title": "Suivez tout en direct",
+        "description": "Regardez les RSVP arriver, gérez votre liste d'invités, envoyez des messages et enregistrez les arrivées."
+      }
+    ]
+  },
+  "features": {
+    "eyebrow": "Fonctionnalités",
+    "heading1": "Tout pour",
+    "headingAccent": "le côté invités",
+    "heading2": "de votre événement.",
+    "subheading": "Invitations, RSVP et enregistrements au même endroit."
+  },
+  "whyBuiltThis": {
+    "eyebrow": "Pourquoi nous avons créé ceci",
+    "heading1": "Parce que les meilleurs événements",
+    "heading2": "se déroulent sans stress",
+    "description": "Nous avons créé Duhuze RSVP pour gérer le chaos — les comptages, les RSVP, les plans de table — afin que les organisateurs puissent faire ce qu'ils font de mieux : rassembler les gens.",
+    "tags": ["Mobile d'abord", "Fonctionne hors ligne", "Aucun téléchargement nécessaire"]
+  },
+  "useCases": {
+    "eyebrow": "Cas d'utilisation",
+    "heading1": "Conçu pour tout type",
+    "headingAccent": "de rassemblement.",
+    "subheading": "Des dîners intimes aux conférences de 500 personnes, un seul outil pour tout gérer.",
+    "cases": [
+      {
+        "title": "Mariages",
+        "description": "Collectez les RSVP, gérez les accompagnants, les régimes alimentaires et le plan de table — tout au même endroit. Votre mariage, à votre image.",
+        "tag": "Le plus populaire"
+      },
+      {
+        "title": "Événements d'entreprise",
+        "description": "Conférences, séminaires, lancements. Suivez les inscriptions, envoyez des rappels et enregistrez les arrivées sur place.",
+        "tag": "Configuration rapide"
+      },
+      {
+        "title": "Communauté",
+        "description": "Anniversaires, collectes de fonds, retrouvailles. Partagez un lien et laissez votre communauté répondre en quelques secondes.",
+        "tag": "Offre gratuite"
+      }
+    ]
+  },
+  "pricingSection": {
+    "eyebrow": "Tarifs",
+    "heading1": "Choisissez votre",
+    "headingAccent": "formule",
+    "subheading": "Commencez simplement, puis évoluez avec vos événements et vos listes d'invités.",
+    "subheadingLine2": "Vous pouvez changer de formule à tout moment, tous les prix sont en RWF.",
+    "monthly": "Mensuel",
+    "yearly": "Annuel",
+    "billedAnnually": "Facturé en un seul paiement annuel · Tous les prix en RWF",
+    "billedMonthly": "Facturé mensuellement · Tous les prix en RWF",
+    "save20": "Économisez 20%",
+    "mostPopular": "Le plus populaire",
+    "perMonth": "par mois",
+    "perYear": "par an",
+    "whatsIncluded": "Ce qui est inclus"
+  },
+  "cta": {
+    "heading1": "Prêt à rendre votre prochain événement",
+    "headingAccent": "sans effort ?",
+    "subtext": "Commencez gratuitement. Créez votre premier événement en quelques minutes.",
+    "subtextLine2": "Pas de carte bancaire, pas de configuration compliquée.",
+    "emailPlaceholder": "vous@email.com",
+    "sending": "Envoi en cours...",
+    "getStarted": "Commencer",
+    "checkInbox": "Vérifiez votre boîte de réception — nous avons envoyé un lien à",
+    "wrongEmail": "Mauvais email ? Retourner",
+    "footerNote": "Gratuit jusqu'à 3 événements actifs · Passez à niveau supérieur à tout moment"
+  },
+  "faq": {
+    "heading": "Questions fréquentes",
+    "subheading": "Tout ce que vous devez savoir avant votre premier événement.",
+    "browseAll": "Parcourir toutes les questions"
+  },
+  "aboutHero": {
+    "badge": "À propos de nous",
+    "headline1": "Les événements devraient être",
+    "headlineAccent": "sans effort.",
+    "description": "Duhuze RSVP est né d'une frustration simple : organiser des événements en Afrique signifiait jongler entre tableurs, discussions WhatsApp éparpillées et comptages manuels. Nous avons créé l'outil que nous aurions aimé avoir.",
+    "startFree": "Commencer gratuitement",
+    "talkToTeam": "Parler à notre équipe",
+    "stats": [
+      { "value": "10K+", "label": "événements hébergés" },
+      { "value": "98%", "label": "taux de RSVP" },
+      { "value": "12", "label": "pays atteints" }
+    ]
+  },
+  "storyVision": {
+    "storyEyebrow": "Notre histoire",
+    "storyHeading1": "Des tableurs",
+    "storyHeadingAccent": "à la fluidité",
+    "storyP1": "Nous avons lancé Duhuze RSVP après avoir vu un ami passer trois jours à courir après les RSVP dans cinq groupes WhatsApp, deux tableurs partagés et un carnet qui ne cessait de se perdre.",
+    "storyP2": "Ce chaos est familier à quiconque a planifié un événement en Afrique. Les outils existants ont été conçus pour des contextes différents — différents réseaux, différents appareils, différentes attentes.",
+    "storyP3": "Alors nous avons construit quelque chose qui correspond vraiment : léger, mobile d'abord, et conçu pour la façon dont les événements se déroulent réellement ici.",
+    "visionEyebrow": "Notre vision",
+    "visionQuote": "Chaque célébration — des dîners intimes aux mariages de 500 invités — mérite une expérience calme et organisée. Nous offrons aux organisateurs une source unique de vérité pour qu'ils puissent se concentrer sur l'essentiel : les gens.",
+    "visionAttribution": "L'équipe Duhuze RSVP"
+  },
+  "appShowcase": {
+    "eyebrow": "Voir en action",
+    "heading1": "Votre centre de",
+    "headingAccent": "commandement",
+    "subheading": "Une interface claire et conçue pour les organisateurs qui ont besoin de clarté sous pression.",
+    "items": [
+      { "title": "Tableau de bord", "description": "Votre centre de commande pour chaque événement." },
+      { "title": "Gestion des invités", "description": "Suivez les RSVP, les accompagnants et les régimes alimentaires." },
+      { "title": "Analytiques en direct", "description": "Consultez les taux de réponse et la présence en un coup d'œil." },
+      { "title": "Détails de l'événement", "description": "Tout ce que vos invités ont besoin au même endroit." }
+    ]
+  },
+  "values": {
+    "eyebrow": "Principes fondamentaux",
+    "heading1": "Ce que nous",
+    "headingAccent": "défendons",
+    "subheading": "Trois convictions qui guident chacune de nos décisions.",
+    "items": [
+      {
+        "number": "01",
+        "title": "La simplicité d'abord",
+        "description": "Chaque fonctionnalité mérite sa place. Nous éliminons la complexité pour que les organisateurs passent des minutes, pas des heures, à gérer leur liste d'invités."
+      },
+      {
+        "number": "02",
+        "title": "Conçu pour l'Afrique",
+        "description": "Design mobile d'abord, pages légères et des flux qui fonctionnent sur toute connexion. Nous construisons pour la façon dont les événements se déroulent réellement ici."
+      },
+      {
+        "number": "03",
+        "title": "Centré sur les invités",
+        "description": "Les RSVP doivent être sans friction. Pas de compte, pas de téléchargement — il suffit d'ouvrir, de cliquer et de confirmer. Une belle expérience invité commence avant l'événement."
+      }
+    ]
+  },
+  "pricingPage": {
+    "heading1": "Des tarifs qui évoluent",
+    "headingAccent": "avec vous",
+    "subheading": "Choisissez une formule abordable avec les meilleures fonctionnalités pour gérer vos événements, collecter les RSVP et organiser votre liste d'invités. Tous les prix sont en RWF.",
+    "compareEyebrow": "Comparer les formules",
+    "compareHeading": "Tout en un coup d'œil",
+    "compareSubheading": "Voyez exactement ce que chaque formule inclut pour choisir en toute confiance.",
+    "compareFeatures": "Fonctionnalités",
+    "faqHeading": "Questions sur les tarifs",
+    "faqSubheading": "Les détails pratiques sur les formules, la facturation et les limites."
+  },
+  "enterprise": {
+    "badge": "Entreprise",
+    "heading": "Besoin d'une solution sur mesure ?",
+    "description": "Remises en volume, support dédié, SSO et intégrations personnalisées. Parlons-en.",
+    "contactUs": "Nous contacter",
+    "replyNote": "Réponse sous un jour ouvré."
+  }
+}

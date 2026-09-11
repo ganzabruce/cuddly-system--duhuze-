@@ -1,0 +1,45 @@
+{
+  "page": {
+    "badge": "Contact",
+    "heading": "Let's talk.",
+    "subtext": "Have a question, feedback, or partnership idea? We'd love to hear from you."
+  },
+  "form": {
+    "nameLabel": "Name",
+    "namePlaceholder": "Your name",
+    "emailLabel": "Email",
+    "emailPlaceholder": "you@example.com",
+    "subjectLabel": "Subject",
+    "subjectPlaceholder": "Select a subject",
+    "messageLabel": "Message",
+    "messagePlaceholder": "How can we help?",
+    "sending": "Sending...",
+    "send": "Send message",
+    "success": "Message sent! We'll get back to you soon.",
+    "subjects": [
+      "General inquiry",
+      "Feature request",
+      "Bug report",
+      "Partnership",
+      "Enterprise plan",
+      "Other"
+    ]
+  },
+  "support": {
+    "badge": "Support",
+    "heading": "How can we help?",
+    "subtext": "Submit a request and our team will get back to you as soon as possible.",
+    "categories": [
+      "Account & login",
+      "Events & RSVPs",
+      "Guest management",
+      "Notifications",
+      "Payments & billing",
+      "Other"
+    ]
+  },
+  "checkout": {
+    "badge": "Checkout",
+    "heading": "Upgrade to"
+  }
+}

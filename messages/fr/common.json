@@ -1,0 +1,34 @@
+{
+  "nav": {
+    "explore": "Explorer",
+    "about": "À propos",
+    "pricing": "Tarifs",
+    "contact": "Contact",
+    "login": "Se connecter",
+    "signup": "Commencer gratuitement",
+    "dashboard": "Tableau de bord"
+  },
+  "footer": {
+    "tagline": "Vos événements, gérés à la perfection.",
+    "product": "Produit",
+    "resources": "Ressources",
+    "legal": "Mentions légales",
+    "about": "À propos",
+    "pricing": "Tarifs",
+    "explore": "Explorer les événements",
+    "faq": "FAQ",
+    "support": "Support",
+    "contact": "Contact",
+    "feedback": "Donner votre avis",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions d'utilisation",
+    "copyright": "© {year} IzyoDigital Suite · Tous droits réservés",
+    "builtBy": "Développé par TopLink Digital"
+  },
+  "error": {
+    "title": "Une erreur est survenue",
+    "description": "Une erreur inattendue s'est produite. Veuillez réessayer ou revenir plus tard.",
+    "tryAgain": "Réessayer"
+  },
+  "loading": "Chargement..."
+}

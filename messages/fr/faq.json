@@ -1,0 +1,114 @@
+{
+  "home": [
+    {
+      "question": "Les invités ont-ils besoin d'un compte pour confirmer leur présence ?",
+      "answer": "Pas du tout. Les invités ouvrent votre lien d'événement, remplissent leur nom et confirment leur présence en moins d'une minute — pas d'inscription, pas de téléchargement d'application, aucune friction. Le processus est entièrement optimisé pour mobile, il fonctionne parfaitement via WhatsApp, SMS ou email."
+    },
+    {
+      "question": "Comment fonctionne la limite d'événements actifs ?",
+      "answer": "Seuls les événements publiés et en ligne comptent dans le quota de votre formule. Les brouillons, les événements terminés et tout ce qui est archivé ne sont pas soumis aux limites. L'offre gratuite vous donne 3 événements actifs, Standard 10, et Premium 25."
+    },
+    {
+      "question": "Puis-je changer de formule à tout moment ?",
+      "answer": "Oui — passez à niveau supérieur ou inférieur quand vous le souhaitez, sans engagement. Les mises à niveau prennent effet immédiatement après le paiement. Les rétrogradations prennent effet à la fin de la période de facturation en cours."
+    },
+    {
+      "question": "Quels moyens de paiement sont acceptés ?",
+      "answer": "Nous acceptons MTN Mobile Money, Airtel Money et les paiements par carte. Les paiements par mobile money envoient une notification sur votre téléphone pour confirmation, et les paiements par carte sont effectués via notre page de paiement sécurisée."
+    },
+    {
+      "question": "Que sont les contributions d'événement ?",
+      "answer": "Les contributions d'événement (Premium) vous permettent d'inclure des instructions de paiement directement dans le processus de RSVP — pour des cadeaux collectifs, des frais de participation ou des dépenses partagées. Duhuze affiche les détails aux invités lors du RSVP ; le transfert d'argent se fait via votre propre lien de paiement ou compte."
+    }
+  ],
+  "faq": {
+    "Product": [
+      {
+        "question": "Qu'est-ce que Duhuze ?",
+        "answer": "Duhuze est une plateforme de gestion d'événements conçue pour les organisateurs rwandais. Elle vous permet de créer des événements, de collecter les RSVP via un lien partageable, de gérer votre liste d'invités en temps réel et d'enregistrer les arrivées sur place — le tout depuis un seul endroit, sur n'importe quel appareil."
+      },
+      {
+        "question": "Les invités ont-ils besoin d'un compte pour confirmer leur présence ?",
+        "answer": "Pas du tout. Les invités ouvrent votre lien d'événement, remplissent leur nom et confirment leur présence en moins d'une minute — pas d'inscription, pas de téléchargement d'application, aucune friction. Le processus est entièrement optimisé pour mobile, il fonctionne parfaitement via WhatsApp, SMS ou email."
+      },
+      {
+        "question": "Existe-t-il une application mobile ?",
+        "answer": "Duhuze est une application web progressive — elle fonctionne dans n'importe quel navigateur mobile sans installation. Ouvrez-la sur votre téléphone et elle se comporte comme une application native. Nous pourrions publier des applications iOS et Android dédiées à l'avenir."
+      },
+      {
+        "question": "Puis-je personnaliser le formulaire de RSVP ?",
+        "answer": "Les formules Premium incluent des questions RSVP personnalisées — ajoutez des champs comme la préférence de repas, la taille de t-shirt, le choix de session ou tout ce qui est spécifique à votre événement. Les invités y répondent lors du RSVP et leurs réponses apparaissent à côté de leur entrée dans votre liste d'invités."
+      },
+      {
+        "question": "Quelles langues Duhuze prend-il en charge ?",
+        "answer": "Duhuze prend actuellement en charge l'anglais. Le support du kinyarwanda et du français est sur notre feuille de route. Le processus de RSVP pour les invités est suffisamment simple pour que la plupart le trouvent intuitif quelle que soit la langue."
+      }
+    ],
+    "Pricing": [
+      {
+        "question": "L'offre gratuite est-elle vraiment gratuite — sans frais cachés ?",
+        "answer": "Oui, entièrement gratuite sans carte bancaire requise. L'offre gratuite vous donne jusqu'à 3 événements actifs publiés, des invités illimités, la collecte de RSVP et des analytiques — le tout sans frais. Vous n'avez besoin d'un moyen de paiement que lorsque vous décidez de passer à niveau supérieur."
+      },
+      {
+        "question": "Quels moyens de paiement sont acceptés ?",
+        "answer": "Nous acceptons MTN Mobile Money, Airtel Money et les paiements par carte. Les paiements par mobile money envoient une notification sur votre téléphone pour confirmation, et les paiements par carte sont effectués via notre page de paiement sécurisée."
+      },
+      {
+        "question": "Combien est-ce que j'économise avec une facturation annuelle ?",
+        "answer": "Choisir une formule annuelle vous fait économiser 20 % par rapport au paiement mensuel — soit environ deux mois gratuits. Le montant annuel complet est facturé en un seul paiement au début de votre cycle de facturation, et vous avez accès pour toute l'année."
+      },
+      {
+        "question": "Puis-je changer de formule à tout moment ?",
+        "answer": "Oui — passez à niveau supérieur ou inférieur quand vous le souhaitez, sans engagement. Les mises à niveau prennent effet immédiatement après le paiement. Les rétrogradations prennent effet à la fin de la période de facturation en cours."
+      },
+      {
+        "question": "Qu'advient-il de mes données si je rétrograde ?",
+        "answer": "Vos données d'événement, vos fiches invités et vos réponses RSVP ne sont jamais supprimées lors d'une rétrogradation. Si vos événements actifs dépassent la limite de la formule inférieure, la plateforme maintient actifs ceux dont la date est la plus proche et désactive les autres. Vous pouvez les réactiver à tout moment en passant à niveau supérieur ou en les archivant."
+      },
+      {
+        "question": "Facturez-vous par invité ou par RSVP ?",
+        "answer": "Jamais. Toutes les formules incluent des invités illimités et des RSVP illimités. Que vous organisiez un dîner intime pour 10 ou une conférence pour 10 000 personnes, le coût reste le même."
+      },
+      {
+        "question": "Comment fonctionne la limite d'événements actifs ?",
+        "answer": "Seuls les événements publiés et en ligne comptent dans le quota de votre formule. Les brouillons, les événements terminés et tout ce qui est archivé ne sont pas soumis aux limites. L'offre gratuite vous donne 3 événements actifs publiés, Standard 10, et Premium 25."
+      },
+      {
+        "question": "Que sont les contributions d'événement ?",
+        "answer": "Les contributions d'événement (Premium) vous permettent d'inclure des instructions de paiement directement dans le processus de RSVP — pour des cadeaux collectifs, des frais de participation ou des dépenses partagées. Duhuze affiche les détails aux invités lors du RSVP ; le transfert d'argent se fait via votre propre lien de paiement ou compte."
+      }
+    ],
+    "Events": [
+      {
+        "question": "Qu'est-ce qui compte comme un événement « actif » ?",
+        "answer": "Un événement actif est un événement publié et accessible aux invités via votre lien RSVP. Les brouillons, les événements que vous avez marqués comme terminés et les événements archivés ne comptent pas dans le quota de votre formule."
+      },
+      {
+        "question": "Puis-je exporter ma liste d'invités ?",
+        "answer": "Les formules Standard et Premium incluent l'export CSV de votre liste d'invités complète, y compris le statut RSVP, les réponses aux questions personnalisées et les enregistrements d'arrivée. Cela facilite la transmission à un coordinateur de lieu ou la conservation de vos propres archives."
+      },
+      {
+        "question": "Plusieurs personnes peuvent-elles gérer le même événement ?",
+        "answer": "La gestion par co-hôtes est sur notre feuille de route. Aujourd'hui, la gestion de l'événement est liée au compte du créateur. Si vous avez besoin d'une solution temporaire, vous pouvez partager vos identifiants de connexion avec un co-organisateur de confiance."
+      }
+    ],
+    "Account": [
+      {
+        "question": "Comment créer un compte ?",
+        "answer": "Visitez duhuze.rw/signup et inscrivez-vous avec votre adresse email. Aucune carte bancaire n'est requise — vous commencez sur l'offre gratuite immédiatement et pouvez passer à niveau supérieur quand vous le souhaitez."
+      },
+      {
+        "question": "Puis-je avoir plusieurs profils d'organisateur ?",
+        "answer": "Chaque compte dispose d'un seul profil organisateur. Si vous gérez des événements pour plusieurs organisations, vous pouvez créer des comptes séparés avec différentes adresses email. Le support multi-profils sous une seule connexion est quelque chose que nous envisageons pour une future mise à jour."
+      },
+      {
+        "question": "Mes données sont-elles sécurisées ?",
+        "answer": "Oui. Toutes les données sont chiffrées en transit (HTTPS/TLS) et au repos. Nous ne vendons pas vos données ni celles de vos invités à des tiers. Les informations personnelles des invités ne sont accessibles qu'à l'organisateur de l'événement qui les a créées."
+      },
+      {
+        "question": "Comment supprimer mon compte ?",
+        "answer": "Vous pouvez supprimer votre compte depuis la page des paramètres du compte. Toutes vos données d'événement et fiches invités seront définitivement supprimées dans un délai de 30 jours. Si vous êtes sur une formule payante, votre accès continue jusqu'à la fin de la période de facturation en cours."
+      }
+    ]
+  }
+}

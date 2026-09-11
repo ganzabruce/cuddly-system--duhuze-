@@ -1,0 +1,42 @@
+{
+  "publicEvent": {
+    "notFoundTitle": "Event Not Found",
+    "notFoundDescription": "The event you're looking for could not be found.",
+    "invitedTo": "You're invited to {title}. Respond now to let us know if you can make it!",
+    "confirmAttendance": "Confirm your attendance for {title}."
+  },
+  "guest": {
+    "metaTitle": "Guest Confirmation | Duhuze RSVP",
+    "metaDescription": "Confirm your RSVP",
+    "invalidBadge": "Invalid link",
+    "invalidTitle": "Link invalid or expired",
+    "invalidDescription": "This guest link may have expired or the link is incorrect. Try opening the link from your invitation email again.",
+    "unavailableBadge": "Event unavailable",
+    "unavailableDescription": "This event is not currently available for check-in."
+  },
+  "invite": {
+    "metaTitle": "Event Invitation | Duhuze RSVP",
+    "metaDescription": "You've been invited to an event",
+    "invitedTo": "You've been invited to {title}.",
+    "invalidBadge": "Invalid invitation",
+    "invalidTitle": "Invitation not found",
+    "invalidDescription": "This invitation link is invalid. Please open the latest link from your email.",
+    "usedBadge": "Invitation used",
+    "usedTitle": "This invitation was already used",
+    "usedDescription": "If this is your invite, request a new link to access your RSVP.",
+    "revokedBadge": "Invitation revoked",
+    "revokedTitle": "This invitation is no longer valid",
+    "revokedDescription": "The organizer revoked this invitation. Please contact them if you still need access.",
+    "expiredBadge": "Expired invitation",
+    "expiredTitle": "This invitation has expired",
+    "expiredDescription": "Request a new invitation link to RSVP for this event."
+  },
+  "tokenState": {
+    "requestNewLink": "Request a new link",
+    "sending": "Sending…",
+    "backToHome": "Back to home",
+    "emailSentBadge": "Email sent",
+    "emailSentTitle": "Check your inbox",
+    "emailSentDescription": "We've sent your RSVP details and event link to your email."
+  }
+}

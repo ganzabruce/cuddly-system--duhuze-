@@ -1,0 +1,191 @@
+{
+  "hero": {
+    "headline1": "Your events,",
+    "headline2": "handled",
+    "headlineAccent": "beautifully.",
+    "subtext": "Create events, send beautiful invitations, collect RSVPs, and manage guests. No spreadsheets, no scattered chats.",
+    "cta": "Get started",
+    "installApp": "Install Duhuze",
+    "learnMore": "Learn more",
+    "freeNote": "Free for up to 3 events · No credit card required"
+  },
+  "valuesMarquee": {
+    "items": [
+      "2,400+ RSVPs collected",
+      "180+ Events hosted",
+      "98% Response rate",
+      "Built in Kigali",
+      "Mobile-first",
+      "No downloads needed",
+      "Works on any connection"
+    ]
+  },
+  "howItWorks": {
+    "eyebrow": "How it works",
+    "heading1": "From zero to guest list",
+    "headingAccent": "in minutes.",
+    "subheading": "No spreadsheets. No back-and-forth emails. Just a clean system that works.",
+    "stepLabel": "Step {number}",
+    "steps": [
+      {
+        "title": "Create your event",
+        "description": "Set your event details — date, venue, capacity, and custom questions. Takes under two minutes."
+      },
+      {
+        "title": "Share your RSVP link",
+        "description": "One unique link works across WhatsApp, email, social media, or embed on your site."
+      },
+      {
+        "title": "Track everything live",
+        "description": "Watch RSVPs come in, manage your guest list, message attendees, and check guests in."
+      }
+    ]
+  },
+  "features": {
+    "eyebrow": "Features",
+    "heading1": "Everything for",
+    "headingAccent": "the guest side",
+    "heading2": "of your event.",
+    "subheading": "Invites, RSVPs, and check‑ins in one place."
+  },
+  "whyBuiltThis": {
+    "eyebrow": "Why we built this",
+    "heading1": "Because the best events",
+    "heading2": "happen when you're not stressed",
+    "description": "We built Duhuze RSVP to handle the chaos - the headcounts, the RSVPs, the seating charts - so organizers can do what they do best: bring people together.",
+    "tags": ["Mobile-first", "Works offline", "No downloads needed"]
+  },
+  "useCases": {
+    "eyebrow": "Use cases",
+    "heading1": "Built for every",
+    "headingAccent": "kind of gathering.",
+    "subheading": "From intimate dinners to 500-person conferences, one tool handles it all.",
+    "cases": [
+      {
+        "title": "Weddings",
+        "description": "Collect RSVPs, manage plus-ones, dietary needs, and seating — all in one place. Your wedding, your way.",
+        "tag": "Most popular"
+      },
+      {
+        "title": "Corporate events",
+        "description": "Conferences, team retreats, launches. Track registrations, send reminders, and check in at the door.",
+        "tag": "Fast setup"
+      },
+      {
+        "title": "Community",
+        "description": "Birthday parties, fundraisers, reunions. Share one link and let your community respond in seconds.",
+        "tag": "Free tier"
+      }
+    ]
+  },
+  "pricingSection": {
+    "eyebrow": "Pricing",
+    "heading1": "Choose your",
+    "headingAccent": "plan",
+    "subheading": "Start simple, then scale as your events and guest lists grow.",
+    "subheadingLine2": "You can switch plans any time, with all prices in RWF.",
+    "monthly": "Monthly",
+    "yearly": "Yearly",
+    "billedAnnually": "Billed as a single annual payment · All prices in RWF",
+    "billedMonthly": "Billed monthly · All prices in RWF",
+    "save20": "Save 20%",
+    "mostPopular": "Most Popular",
+    "perMonth": "per month",
+    "perYear": "per year",
+    "whatsIncluded": "What's included"
+  },
+  "cta": {
+    "heading1": "Ready to make your next event",
+    "headingAccent": "effortless?",
+    "subtext": "Start free. Create your first event in minutes.",
+    "subtextLine2": "No credit card, no setup headaches.",
+    "emailPlaceholder": "you@email.com",
+    "sending": "Sending...",
+    "getStarted": "Get started",
+    "checkInbox": "Check your inbox — we sent a link to",
+    "wrongEmail": "Wrong email? Go back",
+    "footerNote": "Free for up to 3 active events · Upgrade anytime"
+  },
+  "faq": {
+    "heading": "Common questions",
+    "subheading": "Everything you need to know before your first event.",
+    "browseAll": "Browse all questions"
+  },
+  "aboutHero": {
+    "badge": "About us",
+    "headline1": "Events should feel",
+    "headlineAccent": "effortless.",
+    "description": "Duhuze RSVP was born from a simple frustration: organizing events in Africa meant juggling spreadsheets, scattered WhatsApp chats, and manual headcounts. We built the tool we wished existed.",
+    "startFree": "Start for free",
+    "talkToTeam": "Talk to our team",
+    "stats": [
+      { "value": "10K+", "label": "events hosted" },
+      { "value": "98%", "label": "RSVP completion" },
+      { "value": "12", "label": "countries reached" }
+    ]
+  },
+  "storyVision": {
+    "storyEyebrow": "Our story",
+    "storyHeading1": "From spreadsheets",
+    "storyHeadingAccent": "to seamless",
+    "storyP1": "We started Duhuze RSVP after watching a friend spend three days chasing RSVPs across five WhatsApp groups, two shared spreadsheets, and a notebook that kept getting misplaced.",
+    "storyP2": "That chaos is familiar to anyone who has planned an event in Africa. The tools that exist were built for different contexts — different networks, different devices, different expectations.",
+    "storyP3": "So we built something that actually fits: lightweight, mobile-first, and designed for the way events here really work.",
+    "visionEyebrow": "Our vision",
+    "visionQuote": "Every celebration — from intimate dinners to 500-guest weddings — deserves a calm, organized experience. We give organizers a single source of truth so they can focus on what matters: the people.",
+    "visionAttribution": "Duhuze RSVP Team"
+  },
+  "appShowcase": {
+    "eyebrow": "See it in action",
+    "heading1": "Your event",
+    "headingAccent": "command center",
+    "subheading": "A clean, focused interface designed for organizers who need clarity under pressure.",
+    "items": [
+      { "title": "Event dashboard", "description": "Your command center for every event." },
+      { "title": "Guest management", "description": "Track RSVPs, plus-ones, and dietary needs." },
+      { "title": "Live analytics", "description": "See response rates and attendance at a glance." },
+      { "title": "Event details", "description": "Everything your guests need in one place." }
+    ]
+  },
+  "values": {
+    "eyebrow": "Core principles",
+    "heading1": "What we",
+    "headingAccent": "stand for",
+    "subheading": "Three beliefs that shape every decision we make.",
+    "items": [
+      {
+        "number": "01",
+        "title": "Simplicity first",
+        "description": "Every feature earns its place. We strip away complexity so organizers spend minutes, not hours, managing their guest list."
+      },
+      {
+        "number": "02",
+        "title": "Built for Africa",
+        "description": "Mobile-first design, lightweight pages, and flows that work on any connection. We build for the way events actually happen here."
+      },
+      {
+        "number": "03",
+        "title": "Guest-centered",
+        "description": "RSVPs should be frictionless. No accounts, no app downloads — just open, tap, and confirm. A great guest experience starts before the event."
+      }
+    ]
+  },
+  "pricingPage": {
+    "heading1": "Pricing that grows",
+    "headingAccent": "with you",
+    "subheading": "Choose an affordable plan packed with the best features for managing your events, collecting RSVPs, and keeping your guest list organized. All prices are shown in RWF.",
+    "compareEyebrow": "Compare plans",
+    "compareHeading": "Everything at a glance",
+    "compareSubheading": "See exactly what each plan includes so you can choose with confidence.",
+    "compareFeatures": "Features",
+    "faqHeading": "Pricing questions",
+    "faqSubheading": "The practical details behind plans, billing, and limits."
+  },
+  "enterprise": {
+    "badge": "Enterprise",
+    "heading": "Need something custom?",
+    "description": "Volume discounts, dedicated support, SSO, and custom integrations. Let's talk.",
+    "contactUs": "Contact us",
+    "replyNote": "Replies within one business day."
+  }
+}

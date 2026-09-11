@@ -1,0 +1,45 @@
+{
+  "page": {
+    "badge": "Contact",
+    "heading": "Parlons-en.",
+    "subtext": "Une question, un retour ou une idée de partenariat ? Nous serions ravis de vous entendre."
+  },
+  "form": {
+    "nameLabel": "Nom",
+    "namePlaceholder": "Votre nom",
+    "emailLabel": "Email",
+    "emailPlaceholder": "vous@exemple.com",
+    "subjectLabel": "Sujet",
+    "subjectPlaceholder": "Sélectionner un sujet",
+    "messageLabel": "Message",
+    "messagePlaceholder": "Comment pouvons-nous vous aider ?",
+    "sending": "Envoi en cours...",
+    "send": "Envoyer le message",
+    "success": "Message envoyé ! Nous vous répondrons bientôt.",
+    "subjects": [
+      "Demande générale",
+      "Demande de fonctionnalité",
+      "Signalement de bug",
+      "Partenariat",
+      "Formule entreprise",
+      "Autre"
+    ]
+  },
+  "support": {
+    "badge": "Support",
+    "heading": "Comment pouvons-nous vous aider ?",
+    "subtext": "Soumettez une demande et notre équipe vous répondra dans les plus brefs délais.",
+    "categories": [
+      "Compte et connexion",
+      "Événements et RSVP",
+      "Gestion des invités",
+      "Notifications",
+      "Paiements et facturation",
+      "Autre"
+    ]
+  },
+  "checkout": {
+    "badge": "Paiement",
+    "heading": "Passer à"
+  }
+}
