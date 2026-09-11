@@ -1,0 +1,378 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&family=Work+Sans:wght@300;400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@custom-variant dark (&:is(.dark *));
+
+@layer base {
+    body {
+        font-family: var(--font-sans);
+        font-size: 16px;
+        line-height: 1.5;
+        background: var(--background);
+        color: var(--foreground);
+    }
+
+    /* Display font: slightly bolder by default for titles/headlines */
+    .font-display {
+        font-family: var(--font-heading);
+        font-weight: 650;
+    }
+}
+
+:root {
+    --background: #faf9f6;
+    --foreground: #1a1412;
+    --card: #ffffff;
+    --card-foreground: #1a1412;
+    --popover: #ffffff;
+    --popover-foreground: #1a1412;
+    --primary: #1a1412;
+    --primary-foreground: #fffcf4;
+    --secondary: #f5f2ea;
+    --secondary-foreground: #1a1412;
+    --muted: #e8e4dc;
+    --muted-foreground: #6b6358;
+    --accent: #d5b039;
+    --accent-foreground: #1a1412;
+    --accent-tint: #fdf6e3;
+    --accent-deep: #7a5200;
+    --surface-raised: #f5f3ef;
+    --destructive: #ef4444;
+    --destructive-foreground: #ffffff;
+    --destructive-surface: #fee2e2;
+    --destructive-deep: #b91c1c;
+    --success: #22c55e;
+    --success-foreground: #ffffff;
+    --success-surface: #dcfce7;
+    --success-deep: #15803d;
+    --warning: #eab308;
+    --warning-foreground: #1a1412;
+    --warning-surface: #fef9c3;
+    --warning-deep: #854d0e;
+    --border: #d8d2c6;
+    --border-subtle: #ece7de;
+    --input: #d8d2c6;
+    --ring: #d5b039;
+    --chart-1: #d5b039;
+    --chart-2: #f59e0b;
+    --chart-3: #b8960f;
+    --chart-4: #ca8a04;
+    --chart-5: #a16207;
+    --radius: 0.625rem;
+    --radius-sm: 0.375rem;
+    --radius-lg: 0.875rem;
+    --sidebar: #f5f2ea;
+    --sidebar-foreground: #1a1412;
+    --sidebar-primary: #1a1412;
+    --sidebar-primary-foreground: #fffcf4;
+    --sidebar-accent: #e8e4dc;
+    --sidebar-accent-foreground: #1a1412;
+    --sidebar-border: #d8d2c6;
+    --sidebar-ring: #d5b039;
+    --font-sans: "Work Sans", system-ui, sans-serif;
+    --font-heading: "Outfit", system-ui, sans-serif;
+}
+
+.dark {
+    --background: #090909;
+    --foreground: #f5f5f5;
+    --primary: #ededed;
+    --primary-foreground: #090909;
+    --secondary: #111111;
+    --secondary-foreground: #f5f5f5;
+    --accent: #d5b039;
+    --accent-foreground: #1a1412;
+    --accent-tint: #231d0a;
+    --accent-deep: #e8c84a;
+    --card: #121212;
+    --card-foreground: #f5f5f5;
+    --surface-raised: #181818;
+    --popover: #101010;
+    --popover-foreground: #f5f5f5;
+    --muted: #1b1b1b;
+    --muted-foreground: #a3a3a3;
+    --destructive: #ef4444;
+    --destructive-foreground: #ffffff;
+    --destructive-surface: #2a1111;
+    --destructive-deep: #f87171;
+    --success: #16a34a;
+    --success-foreground: #ffffff;
+    --success-surface: #0f2015;
+    --success-deep: #4ade80;
+    --warning: #eab308;
+    --warning-foreground: #1a1412;
+    --warning-surface: #221c08;
+    --warning-deep: #fbbf24;
+    --border: #2a2a2a;
+    --border-subtle: #1a1a1a;
+    --input: #2a2a2a;
+    --ring: #d5b039;
+    --chart-1: #d5b039;
+    --chart-2: #f59e0b;
+    --chart-3: #b8960f;
+    --chart-4: #ca8a04;
+    --chart-5: #a16207;
+    --sidebar: #050505;
+    --sidebar-foreground: #f5f5f5;
+    --sidebar-primary: #ededed;
+    --sidebar-primary-foreground: #090909;
+    --sidebar-accent: #111111;
+    --sidebar-accent-foreground: #f5f5f5;
+    --sidebar-border: #171717;
+    --sidebar-ring: #d5b039;
+}
+
+@theme inline {
+    --width-sidebar: 16rem;
+    --width-sidebar-icon: 5rem;
+    --width-sidebar-mobile: 18rem;
+    --width-sidebar-icon-padded: 6rem;
+    --width-sidebar-icon-padded-full: 6.125rem;
+    --color-background: var(--background);
+    --color-foreground: var(--foreground);
+    --color-accent: var(--accent);
+    --color-border: var(--border);
+    --color-input: var(--input);
+    --color-ring: var(--ring);
+    --color-primary: var(--primary);
+    --color-primary-foreground: var(--primary-foreground);
+    --color-secondary: var(--secondary);
+    --color-secondary-foreground: var(--secondary-foreground);
+    --color-destructive: var(--destructive);
+    --color-destructive-foreground: var(--destructive-foreground);
+    --color-success: var(--success);
+    --color-success-foreground: var(--success-foreground);
+    --color-warning: var(--warning);
+    --color-warning-foreground: var(--warning-foreground);
+    --color-muted: var(--muted);
+    --color-muted-foreground: var(--muted-foreground);
+    --color-accent-foreground: var(--accent-foreground);
+    --color-popover: var(--popover);
+    --color-popover-foreground: var(--popover-foreground);
+    --color-card: var(--card);
+    --color-card-foreground: var(--card-foreground);
+    --color-sidebar: var(--sidebar);
+    --color-sidebar-foreground: var(--sidebar-foreground);
+    --color-sidebar-primary: var(--sidebar-primary);
+    --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+    --color-sidebar-accent: var(--sidebar-accent);
+    --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+    --color-sidebar-border: var(--sidebar-border);
+    --color-sidebar-ring: var(--sidebar-ring);
+    --font-sans: var(--font-sans);
+    --font-heading: var(--font-heading);
+    --color-surface-raised: var(--surface-raised);
+    --color-accent-tint: var(--accent-tint);
+    --color-accent-deep: var(--accent-deep);
+    --color-border-subtle: var(--border-subtle);
+    --color-success-surface: var(--success-surface);
+    --color-success-deep: var(--success-deep);
+    --color-warning-surface: var(--warning-surface);
+    --color-warning-deep: var(--warning-deep);
+    --color-destructive-surface: var(--destructive-surface);
+    --color-destructive-deep: var(--destructive-deep);
+    --radius-sm: var(--radius-sm);
+    --radius-lg: var(--radius-lg);
+}
+
+/* Smooth scrolling */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: var(--background);
+}
+
+::-webkit-scrollbar-thumb {
+    background: color-mix(in srgb, var(--foreground) 25%, transparent);
+    border-radius: 4px;
+}
+
+.dark ::-webkit-scrollbar-thumb {
+    background: color-mix(in srgb, var(--foreground) 35%, transparent);
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: color-mix(in srgb, var(--foreground) 45%, transparent);
+}
+
+/* Selection color */
+::selection {
+    background-color: rgba(196, 100, 42, 0.22);
+    color: inherit;
+}
+
+/* Focus styles */
+:focus-visible:not(input):not(textarea) {
+    outline: 2px solid var(--ring);
+    outline-offset: 2px;
+    border-radius: var(--radius-sm);
+}
+
+/* Native date/time input dark mode support */
+input[type="time"],
+input[type="date"],
+input[type="datetime-local"] {
+    color-scheme: light;
+}
+
+.dark input[type="time"],
+.dark input[type="date"],
+.dark input[type="datetime-local"] {
+    color-scheme: dark;
+}
+
+/* Style the calendar/clock picker indicators */
+input[type="time"]::-webkit-calendar-picker-indicator,
+input[type="date"]::-webkit-calendar-picker-indicator,
+input[type="datetime-local"]::-webkit-calendar-picker-indicator {
+    cursor: pointer;
+    filter: none;
+}
+
+.dark input[type="time"]::-webkit-calendar-picker-indicator,
+.dark input[type="date"]::-webkit-calendar-picker-indicator,
+.dark input[type="datetime-local"]::-webkit-calendar-picker-indicator {
+    filter: invert(1);
+}
+
+/* ═══════════════════════════════════════════
+   SITE DESIGN SYSTEM — Typography & Shared Utilities
+   ═══════════════════════════════════════════ */
+
+/* ── Site typography tiers ── */
+.site-h1 {
+    font-size: clamp(2.5rem, 5.5vw, 4rem);
+    font-weight: 800;
+    letter-spacing: -0.03em;
+    line-height: 1.05;
+}
+.site-h2 {
+    font-size: clamp(1.75rem, 3.5vw, 2.5rem);
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    line-height: 1.15;
+}
+.site-eyebrow {
+    font-size: 0.6875rem;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--muted-foreground);
+}
+.site-accent {
+    font-family: var(--font-heading);
+    font-weight: 400;
+    color: var(--primary);
+}
+
+/* Shared marketing surface utilities */
+
+.home-bento-marquee {
+    overflow: hidden;
+    border-top: 1px solid var(--border);
+    border-bottom: 1px solid var(--border);
+    background: color-mix(in srgb, var(--secondary) 75%, white);
+}
+
+@keyframes home-bento-scroll {
+    from {
+        transform: translateX(0);
+    }
+    to {
+        transform: translateX(-50%);
+    }
+}
+
+.home-bento-marquee-track {
+    display: flex;
+    width: max-content;
+    white-space: nowrap;
+    animation: home-bento-scroll 26s linear infinite;
+}
+
+@keyframes bn-scale-in {
+    from {
+        opacity: 0;
+        transform: scale(0.92);
+    }
+    to {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+@keyframes bn-slide-up {
+    from {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.bn-card-in {
+    opacity: 0;
+    animation: bn-scale-in 0.8s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+.bn-slide {
+    opacity: 0;
+    animation: bn-slide-up 0.7s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+.bn-d1 { animation-delay: 0.1s; }
+.bn-d2 { animation-delay: 0.2s; }
+.bn-d3 { animation-delay: 0.3s; }
+.bn-d4 { animation-delay: 0.4s; }
+.bn-d5 { animation-delay: 0.5s; }
+.bn-d6 { animation-delay: 0.6s; }
+.bn-d7 { animation-delay: 0.7s; }
+.bn-d8 { animation-delay: 0.8s; }
+
+/* ───── Hide scrollbar utility ───── */
+.scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+.scrollbar-hide::-webkit-scrollbar {
+    display: none;
+}
+
+/* ═══════════════════════════════════════════
+   LANDING PAGE — Animations & Effects
+   ═══════════════════════════════════════════ */
+
+/* ── Step circle hover ── */
+.step-circle {
+    transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.step-circle:hover {
+    background-color: var(--primary);
+    color: var(--primary-foreground);
+    transform: scale(1.15);
+}
+
+/* ── Tiptap editor ── */
+.tiptap:focus,
+.tiptap [contenteditable]:focus {
+    outline: none;
+}
+
+.tiptap p.is-editor-empty:first-child::before {
+    content: attr(data-placeholder);
+    float: left;
+    color: var(--muted-foreground);
+    opacity: 0.6;
+    pointer-events: none;
+    height: 0;
+}
