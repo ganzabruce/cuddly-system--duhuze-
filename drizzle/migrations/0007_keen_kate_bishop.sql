@@ -1,0 +1,1 @@
+ALTER TABLE "event_payments" ADD COLUMN "rsvp_context" jsonb;

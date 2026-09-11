@@ -1,0 +1,1 @@
+ALTER TYPE "public"."payment_purpose_enum" ADD VALUE 'test';

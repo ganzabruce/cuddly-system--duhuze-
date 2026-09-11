@@ -1,0 +1,1 @@
+ALTER TYPE "public"."image_format_enum" ADD VALUE 'tall' BEFORE 'landscape';
