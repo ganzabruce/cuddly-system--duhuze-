@@ -1,0 +1,46 @@
+{
+  "features": [
+    {
+      "title": "One event home",
+      "description": "Create a single source of truth for dates, venue, hosts, and guest capacity.",
+      "icon": "CalendarDaysIcon",
+      "order": 1,
+      "isActive": true
+    },
+    {
+      "title": "One smart invite link",
+      "description": "Share a single link across WhatsApp, email, or socials and let guests land on a focused RSVP page.",
+      "icon": "UsersIcon",
+      "order": 2,
+      "isActive": true
+    },
+    {
+      "title": "Guided guest experience",
+      "description": "Collect the answers that matter to your event with a clean, mobile-first flow.",
+      "icon": "AcademicCapIcon",
+      "order": 3,
+      "isActive": true
+    },
+    {
+      "title": "Live guest list",
+      "description": "See confirmed, pending, and declined guests update in real time as responses roll in.",
+      "icon": "UsersIcon",
+      "order": 4,
+      "isActive": true
+    },
+    {
+      "title": "Check-in at the door",
+      "description": "Scan guests in from any device and keep your headcount accurate as the night fills up.",
+      "icon": "CalendarDaysIcon",
+      "order": 5,
+      "isActive": true
+    },
+    {
+      "title": "Export & recap",
+      "description": "Wrap up with a clean record of everyone who was invited, replied, and walked through the door.",
+      "icon": "UsersIcon",
+      "order": 6,
+      "isActive": true
+    }
+  ]
+}
